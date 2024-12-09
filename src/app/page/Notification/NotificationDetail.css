@@ -1,0 +1,13 @@
+.notification-dot {
+    width: 10px; /* Kích thước hình tròn */
+    height: 10px;
+    background-color: var(--theme-color); /* Màu sắc của chấm thông báo */
+    border-radius: 50%; /* Tạo hình tròn */
+    display: inline-block;
+    align-items: flex-end;
+    align-self: center; /* Canh giữa theo chiều dọc */
+}
+
+.active {
+    background-color: rgb(190, 228, 245); /* Thay thế bằng màu bạn muốn */
+}

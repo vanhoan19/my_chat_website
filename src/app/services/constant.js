@@ -1,0 +1,1 @@
+export const PREFIX_API_URL = "http://localhost:8081"
